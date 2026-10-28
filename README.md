@@ -1,73 +1,79 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Maylo Parra — Full Stack, Mobile & AI Integration" />
+  <img src="./assets/hero.svg" width="100%" alt="Maylo Parra — desarrollador Full Stack en Costa Rica. React, Angular, .NET, Laravel e Ionic." />
 </div>
 
-<br />
-
 <div align="center">
-  <a href="https://maylocode.dev"><img alt="Portafolio web" src="https://img.shields.io/badge/PORTAFOLIO-Visitar_sitio-0F172A?style=for-the-badge&labelColor=0F172A&color=51C8D3" /></a>
-  <a href="https://github.com/Mayloparra24?tab=repositories"><img alt="Repositorios" src="https://img.shields.io/badge/GITHUB-Explorar_proyectos-0F172A?style=for-the-badge&labelColor=0F172A&color=8FA7FE" /></a>
-  <img alt="Costa Rica" src="https://img.shields.io/badge/UBICACI%C3%93N-Costa_Rica-0F172A?style=for-the-badge&labelColor=0F172A&color=324C66" />
+  <a href="https://maylocode.dev"><img alt="Portafolio" src="https://img.shields.io/badge/PORTAFOLIO-MayloCode-07070C?style=for-the-badge&labelColor=07070C&color=22D3EE" /></a>
+  <a href="https://github.com/Mayloparra24?tab=repositories"><img alt="Proyectos" src="https://img.shields.io/badge/GITHUB-Ver_proyectos-07070C?style=for-the-badge&labelColor=07070C&color=8B5CF6" /></a>
+  <img alt="Ubicación Costa Rica" src="https://img.shields.io/badge/UBICACIÓN-Costa_Rica-07070C?style=for-the-badge&labelColor=07070C&color=64748B" />
 </div>
 
 ### `> whoami`
 
-Soy **Maylo Parra**, desarrollador de software en Costa Rica y estudiante de último tramo del **Bachillerato en Informática Empresarial de la Universidad de Costa Rica**.
+Soy **Maylo Parra**, desarrollador **full stack** de Costa Rica y estudiante en la etapa final del Bachillerato en **Informática Empresarial de la Universidad de Costa Rica**.
 
-Construyo aplicaciones **web y móviles**, **API REST** y soluciones que integran inteligencia artificial. Me interesan la arquitectura de software, las pruebas, la seguridad y los flujos de ingeniería asistidos por agentes de IA. Mi enfoque: **resolver problemas reales con código mantenible**.
+Trabajo en soluciones web, móviles y APIs, con experiencia práctica en sistemas empresariales. Me interesan la **arquitectura de software, las pruebas, la seguridad y la ingeniería asistida por IA**, siempre con atención a la mantenibilidad del código y los problemas que resuelve.
+
+### `> cat experience.md`
+
+**Desarrollador full stack — práctica profesional en Softlithe**
+
+Participo en el desarrollo y mantenimiento de un **ERP para clínicas y ópticas**, con módulos de pacientes, citas, inventario y facturación. Mi trabajo incluye:
+
+- Corrección de errores y mejoras a módulos existentes.
+- Desarrollo de funcionalidades de punta a punta: **SQL Server → APIs .NET/C# → interfaces React**.
+- Desarrollo del frontend de una aplicación móvil con **Ionic y Angular**, conectada a una API en .NET.
+- Evaluación de herramientas y servicios para decisiones técnicas del proyecto.
+
+> El ERP es software privado de la empresa; por eso no publico código ni capturas internos.
 
 ### `> featured --project bovweightcr`
 
 <div align="center">
-  <img src="./assets/bovweight.svg" width="100%" alt="Arquitectura de BovWeightCR: aplicación móvil, API Laravel y microservicio de IA" />
+  <img src="./assets/bovweight.svg" width="100%" alt="BovWeightCR: aplicación móvil, backend Laravel y microservicio FastAPI para visión artificial" />
 </div>
 
-**BovWeightCR** integra una app móvil para gestionar fincas, animales y pesajes; una API para autenticación y lógica de negocio; y un servicio de visión artificial que estima el peso bovino a partir de imágenes. El sistema incorpora funcionalidades **offline** y automatización **CI/CD**.
+**BovWeightCR** es un proyecto académico de gestión ganadera y estimación del peso bovino mediante imágenes. Integra una aplicación móvil, una API REST y un microservicio de visión artificial con **YOLOv8 y Depth Pro**.
+
+**Mi contribución:** selección de modelos, desarrollo del microservicio de ML y una parte importante de la API en Laravel; integración entre servicios y frontend, además de ajustes de interfaz y pruebas QA.
 
 | Aplicación móvil | Backend REST | Microservicio de IA |
 |:---:|:---:|:---:|
-| [**Ionic · Vue · Capacitor**](https://github.com/Mayloparra24/BowWeightCR_FrontEnd) | [**Laravel · Sanctum · MySQL**](https://github.com/Mayloparra24/BowWeightCR_BackEnd) | [**FastAPI · YOLOv8 · Depth Pro**](https://github.com/Mayloparra24/bovweight-api) |
-| [Ver código ↗](https://github.com/Mayloparra24/BowWeightCR_FrontEnd) | [Ver código ↗](https://github.com/Mayloparra24/BowWeightCR_BackEnd) | [Ver código ↗](https://github.com/Mayloparra24/bovweight-api) |
+| [Ionic · Vue · Capacitor](https://github.com/Mayloparra24/BowWeightCR_FrontEnd) | [Laravel · MySQL](https://github.com/Mayloparra24/BowWeightCR_BackEnd) | [FastAPI · YOLOv8 · Depth Pro](https://github.com/Mayloparra24/bovweight-api) |
 
-### `> ls ./projects`
+### `> ls projects/`
 
-| Proyecto | Qué demuestra | Tecnologías |
+| Proyecto | Qué demuestra | Stack |
 |---|---|---|
-| [**Gestor de Restaurante**](https://github.com/Mayloparra24/GestorDeRestaurante) | Sistema colaborativo de inventario, pedidos, facturación y roles. Aportes en lógica de negocio, arquitectura y control de acceso. | `C#` `ASP.NET MVC` `SQL Server` |
-| [**ClimaVue**](https://github.com/Mayloparra24/Vue3_Grupo1) | Interfaz adaptable con geolocalización, consumo de API, búsqueda e historial persistente. | `Vue 3` `JavaScript` `Vite` |
-| [**Portafolio interactivo**](https://github.com/Mayloparra24/portafolio) | Sitio personal inspirado en un escritorio de desarrollador, con navegación mediante comandos. | `React` `TypeScript` `Tailwind CSS` |
+| [**Gestor de Restaurante**](https://github.com/Mayloparra24/GestorDeRestaurante) | Proyecto colaborativo de gestión de mesas y pedidos. Contribuí en gestión de usuarios, pedidos y pruebas QA. | `C#` `ASP.NET MVC` `SQL Server` |
+| [**Weather App**](https://github.com/Mayloparra24/Vue3_Grupo1) | Aplicación de clima con una API externa. Implementé videos de fondo según las condiciones meteorológicas y mejoré la presentación de los datos. | `Vue 3` `JavaScript` |
+| [**Portafolio React (versión anterior)**](https://github.com/Mayloparra24/portafolio) | Implementación experimental con interfaz de escritorio y navegación por comandos. *El repositorio corresponde a esa versión, no necesariamente al diseño web actual.* | `React` `TypeScript` `Tailwind` |
 
-### `> cat ./stack.md`
+### `> cat stack.md`
 
-**Backend & datos**
-
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-
-**Frontend & móvil**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white) ![Vue](https://img.shields.io/badge/Vue_3-35495E?style=flat-square&logo=vuedotjs&logoColor=4FC08D) ![Ionic](https://img.shields.io/badge/Ionic-3880FF?style=flat-square&logo=ionic&logoColor=white) ![Capacitor](https://img.shields.io/badge/Capacitor-119EFF?style=flat-square&logo=capacitor&logoColor=white)
-
-**Ingeniería & herramientas**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white) ![REST API](https://img.shields.io/badge/REST_APIs-233C51?style=flat-square) ![Automated Tests](https://img.shields.io/badge/Automated_Tests-127B70?style=flat-square) ![AI Agents](https://img.shields.io/badge/AI--assisted_Development-6D56A0?style=flat-square)
+| Área | Tecnologías |
+|---|---|
+| **Frontend** | React, Angular, TypeScript, Vue, Astro |
+| **Backend** | .NET / C#, Laravel, Python, FastAPI |
+| **Móvil** | Ionic, Capacitor |
+| **Datos** | SQL Server, PostgreSQL, MySQL |
+| **Herramientas** | Git, Docker, Linux, GitHub Actions |
 
 ### `> git log --open-source --highlights`
 
-- **[Chenaikit · PR #349](https://github.com/nexoraorg/chenaikit/pull/349)** — contribución **fusionada** al proyecto: estandarización de categorías de errores compartidas entre contratos Rust/Soroban, con pruebas y documentación.
-- **[Gentle Shell · Issue #2469](https://github.com/Gentleman-Programming/gentle-shell/issues/2469)** — diagnóstico reproducible de un problema de instalación/desinstalación en Windows.
-- **[Gentle Shell · Issue #2468](https://github.com/Gentleman-Programming/gentle-shell/issues/2468)** — investigación de un fallo de escritura de memoria relacionado con procesos y almacenamiento temporal.
-- **[Engram · Issue #1937](https://github.com/Gentleman-Programming/engram/issues/1937)** — reporte técnico sobre fallos de escritura SQLite en Windows.
+- **[Chenaikit · PR #349](https://github.com/nexoraorg/chenaikit/pull/349)** — contribución **fusionada**: estandarización de categorías compartidas de errores en contratos Rust/Soroban, con pruebas y documentación.
+- **[Gentle Shell · Issue #2469](https://github.com/Gentleman-Programming/gentle-shell/issues/2469)** — reporte reproducible de un problema de desinstalación y configuración npm en Windows.
+- **[Gentle Shell · Issue #2468](https://github.com/Gentleman-Programming/gentle-shell/issues/2468)** — investigación sobre fallos de persistencia de memoria.
+- **[Engram · Issue #1937](https://github.com/Gentleman-Programming/engram/issues/1937)** — reporte de problemas de escritura SQLite en Windows.
 
-> Me gusta contribuir con reportes reproducibles, pruebas y mejoras concretas. Distingo las contribuciones integradas de los *issues* y las propuestas aún no fusionadas.
+> Distingo entre código fusionado, propuestas y reportes técnicos: cada tipo de contribución aporta valor, pero no son equivalentes.
 
 ---
 
 <div align="center">
-  <strong>¿Construimos algo útil?</strong>
-  <br />
-  Estoy abierto a oportunidades en desarrollo <strong>backend, full stack y móvil</strong>.
+  <strong>¿Hablamos de un proyecto o una oportunidad profesional?</strong>
   <br /><br />
-  <a href="https://maylocode.dev"><strong>🌐 Ver portafolio</strong></a> · <a href="https://github.com/Mayloparra24?tab=repositories"><strong>💻 Explorar GitHub</strong></a>
+  <a href="https://maylocode.dev"><strong>🌐 Portafolio MayloCode</strong></a> · <a href="https://github.com/Mayloparra24?tab=repositories"><strong>💻 Repositorios</strong></a>
   <br /><br />
-  <sub>Designed with intention · Built to last · Costa Rica 🇨🇷</sub>
+  <sub>MayloCode · Desarrollo con intención · Costa Rica 🇨🇷</sub>
 </div>

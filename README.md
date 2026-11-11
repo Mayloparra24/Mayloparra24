@@ -1,20 +1,20 @@
 <div align="center">
-  <img src="./assets/hero.svg" width="100%" alt="Maylo Parra — Full Stack Developer · MayloCode" />
+  <a href="https://maylocode.dev"><img src="./assets/banner.png" width="100%" alt="MayloCode: Hago webs que la gente recuerda. maylocode.dev" /></a>
 </div>
 
 <div align="center">
-  <a href="https://maylocode.dev"><img alt="Portafolio MayloCode" src="https://img.shields.io/badge/PORTAFOLIO-MayloCode-07070C?style=for-the-badge&labelColor=07070C&color=22D3EE" /></a>
-  <a href="https://www.linkedin.com/in/maylo-parra-aguirre-298a61173/"><img alt="LinkedIn" src="https://img.shields.io/badge/LINKEDIN-Perfil_profesional-07070C?style=for-the-badge&labelColor=07070C&color=8B5CF6" /></a>
-  <img alt="Costa Rica" src="https://img.shields.io/badge/UBICACIÓN-Costa_Rica-07070C?style=for-the-badge&labelColor=07070C&color=64748B" />
+  <a href="https://maylocode.dev"><img alt="Portafolio" src="https://img.shields.io/badge/Portafolio-maylocode.dev-0A0B2E?style=for-the-badge&labelColor=1D2BF0" /></a>
+  <a href="https://www.linkedin.com/in/maylo-parra-aguirre-298a61173/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Perfil_profesional-0A0B2E?style=for-the-badge&labelColor=1D2BF0" /></a>
+  <img alt="Ubicación: Costa Rica" src="https://img.shields.io/badge/Ubicación-Costa_Rica-0A0B2E?style=for-the-badge&labelColor=1D2BF0" />
 </div>
 
-### `> whoami`
+## Hola, soy Maylo Parra
 
-Soy **Maylo Parra**, desarrollador **full stack** de Costa Rica y estudiante en la etapa final del Bachillerato en **Informática Empresarial de la Universidad de Costa Rica**.
+Desarrollador **full stack** de Costa Rica y estudiante en la etapa final del Bachillerato en **Informática Empresarial de la Universidad de Costa Rica**.
 
 Desarrollo aplicaciones **web y móviles**, **API REST** y funcionalidades para sistemas empresariales. Me interesan la arquitectura de software, las pruebas, la seguridad y la ingeniería asistida por IA, con especial atención a la mantenibilidad.
 
-### `> cat experience.md`
+## Experiencia
 
 **Desarrollador full stack · Práctica profesional en Softlithe**
 
@@ -27,36 +27,21 @@ Colaboro en el desarrollo y mantenimiento de un **ERP para clínicas y ópticas*
 
 > El ERP es software privado: por confidencialidad, no publico código ni capturas internos.
 
-### `> open maylocode.dev`
+## MayloCode, mi portafolio
 
-**[MayloCode](https://maylocode.dev)** es mi portafolio profesional, donde presento mi experiencia, proyectos y servicios de desarrollo, con contacto para empresas y reclutadores.
+**[MayloCode](https://maylocode.dev)** es mi portafolio profesional, donde presento mi experiencia, proyectos y servicios de desarrollo, con contacto directo para empresas y reclutadores.
 
-Su nueva propuesta visual, **«Hilo de luz»**, combina una estética oscura con acentos cian y violeta, una aurora animada en **WebGL** y un recorrido visual entre secciones. El diseño se plantea con **Astro**, priorizando rendimiento, claridad y accesibilidad.
+Su diseño, llamado **Mural**, apuesta por titulares enormes sobre azul Klein, acentos en coral y lila, y animaciones nativas de CSS ligadas al scroll. Está construido con **Astro**, priorizando rendimiento, claridad y accesibilidad.
 
-<div align="center"><a href="https://maylocode.dev"><strong>🌐 Explorar MayloCode</strong></a></div>
+<div align="center"><a href="https://maylocode.dev"><strong>Explorar maylocode.dev →</strong></a></div>
 
-### `> featured --project bovweightcr`
-
-<div align="center">
-  <img src="./assets/bovweight.svg" width="100%" alt="Arquitectura de BovWeightCR: aplicación móvil, API Laravel y microservicio FastAPI" />
-</div>
-
-**BovWeightCR** es un proyecto académico de gestión ganadera y estimación del peso bovino mediante imágenes. Integra una aplicación móvil, una API REST y un microservicio de visión artificial con **YOLOv8 y Depth Pro**.
-
-**Mi aporte:** selección de modelos, desarrollo del microservicio de ML y una parte importante de la API en Laravel; integración entre servicios y frontend, ajustes de interfaz y pruebas QA.
-
-| Aplicación móvil | Backend REST | Microservicio de IA |
-|:---:|:---:|:---:|
-| [Ionic · Vue · Capacitor](https://github.com/Mayloparra24/BowWeightCR_FrontEnd) | [Laravel · MySQL](https://github.com/Mayloparra24/BowWeightCR_BackEnd) | [FastAPI · YOLOv8 · Depth Pro](https://github.com/Mayloparra24/bovweight-api) |
-
-### `> ls projects/`
+## Proyectos
 
 | Proyecto | Mi contribución | Stack |
 |---|---|---|
-| [**Gestor de Restaurante**](https://github.com/Mayloparra24/GestorDeRestaurante) | Proyecto colaborativo para gestión de mesas y pedidos. Participé en gestión de usuarios, pedidos y pruebas QA. | `C#` `ASP.NET MVC` `SQL Server` |
 | [**Weather App**](https://github.com/Mayloparra24/Vue3_Grupo1) | Aplicación de clima con API externa. Implementé videos de fondo según las condiciones del clima y mejoras en la presentación de la información. | `Vue 3` `JavaScript` |
 
-### `> cat stack.md`
+## Stack
 
 | Área | Tecnologías |
 |---|---|
@@ -68,12 +53,12 @@ Su nueva propuesta visual, **«Hilo de luz»**, combina una estética oscura con
 
 Exploro flujos de **desarrollo asistido por agentes de IA**, con énfasis en revisión de código, pruebas y automatización.
 
-### `> git log --open-source --highlights`
+## Contribuciones open source
 
-- **[Chenaikit · PR #349](https://github.com/nexoraorg/chenaikit/pull/349)** — contribución **fusionada** para estandarizar categorías compartidas de errores en contratos Rust/Soroban, con pruebas y documentación.
-- **[Gentle Shell · Issue #2469](https://github.com/Gentleman-Programming/gentle-shell/issues/2469)** — reporte reproducible sobre desinstalación y configuración de npm en Windows.
-- **[Gentle Shell · Issue #2468](https://github.com/Gentleman-Programming/gentle-shell/issues/2468)** — investigación de un fallo de persistencia de memoria.
-- **[Engram · Issue #1937](https://github.com/Gentleman-Programming/engram/issues/1937)** — reporte técnico sobre problemas de escritura SQLite en Windows.
+- **[Chenaikit · PR #349](https://github.com/nexoraorg/chenaikit/pull/349)**: contribución **fusionada** para estandarizar categorías compartidas de errores en contratos Rust/Soroban, con pruebas y documentación.
+- **[Gentle Shell · Issue #2469](https://github.com/Gentleman-Programming/gentle-shell/issues/2469)**: reporte reproducible sobre desinstalación y configuración de npm en Windows.
+- **[Gentle Shell · Issue #2468](https://github.com/Gentleman-Programming/gentle-shell/issues/2468)**: investigación de un fallo de persistencia de memoria.
+- **[Engram · Issue #1937](https://github.com/Gentleman-Programming/engram/issues/1937)**: reporte técnico sobre problemas de escritura SQLite en Windows.
 
 > Distingo entre contribuciones fusionadas y reportes técnicos: ambos aportan valor, pero no son equivalentes.
 
@@ -82,7 +67,7 @@ Exploro flujos de **desarrollo asistido por agentes de IA**, con énfasis en rev
 <div align="center">
   <strong>¿Hablamos de un proyecto o una oportunidad profesional?</strong>
   <br /><br />
-  <a href="https://maylocode.dev"><strong>🌐 Portafolio y servicios</strong></a> · <a href="https://www.linkedin.com/in/maylo-parra-aguirre-298a61173/"><strong>💼 LinkedIn</strong></a> · <a href="https://maylocode.dev/#contacto"><strong>✉️ Contacto</strong></a>
+  <a href="https://maylocode.dev"><strong>Portafolio y servicios</strong></a> · <a href="https://www.linkedin.com/in/maylo-parra-aguirre-298a61173/"><strong>LinkedIn</strong></a> · <a href="https://maylocode.dev/#contacto"><strong>Contacto</strong></a>
   <br /><br />
-  <sub>MayloCode · Costa Rica 🇨🇷</sub>
+  <sub>MayloCode · Costa Rica</sub>
 </div>
